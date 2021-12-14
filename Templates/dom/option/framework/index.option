@@ -1,0 +1,6 @@
+<select name="framework" data-recursive-option-url="https://raw.githubusercontent.com/senimandigital/senimandigital.github.io/master/Templates/dom/option/framework/index.option">
+ <option value="deno">Deno</option>
+ <option value="node">Node</option>
+ <option value="php">PHP</option>
+ <option value="python">Python</option>
+</select>
